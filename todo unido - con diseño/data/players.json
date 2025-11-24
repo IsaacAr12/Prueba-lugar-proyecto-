@@ -1,0 +1,38 @@
+{
+  "1b9f35e5-765e-4859-8a88-e297a085e76a": {
+    "id": "1b9f35e5-765e-4859-8a88-e297a085e76a",
+    "alias": "TEST1",
+    "full_name": "TEST",
+    "email": "melanymontoya0912@gmail.com",
+    "password_hash": "$2b$12$ZZ4ArV8rGkVS9ve05VXFquoxyFzT3.ylil4c73RemW1WWmnAvwrJq",
+    "profile_picture": "Ruta opcional",
+    "spaceship_image": "Ruta opcional",
+    "favorite_music": [
+      "Separar por coma"
+    ]
+  },
+  "1410de16-11f7-4b52-9d74-eefaf3af9f18": {
+    "id": "1410de16-11f7-4b52-9d74-eefaf3af9f18",
+    "alias": "TEST20",
+    "full_name": "Melany",
+    "email": "melmontoya3112@gmail.com",
+    "password_hash": "$2b$12$BFPvsCb0/NOE4UnGoHpVl.X5kGj2veN9Q/xWaMFiVvBEEVIeeFH4q",
+    "profile_picture": "C:/Users/melmo/OneDrive/Imágenes/Capturas de pantalla/Captura de pantalla 2025-05-08 211946.png",
+    "spaceship_image": "C:/Users/melmo/OneDrive/Imágenes/Capturas de pantalla/Captura de pantalla 2025-05-08 211808.png",
+    "favorite_music": [
+      "C:/Users/melmo/Downloads/www.joeemilio.co.za - Formula 1 Intro 2021 (Abu Dhabi Special Intro) 1080p (320 KBps).mp3"
+    ]
+  },
+  "a060be83-59c9-43a7-a829-f851546e0792": {
+    "id": "a060be83-59c9-43a7-a829-f851546e0792",
+    "alias": "TEST30",
+    "full_name": "TESTER.",
+    "email": "mm1575964@gmail.com",
+    "password_hash": "$2b$12$fCfZuGInZrOvhY71r9Dam.BQp3ZmaEyHkVvfyU8iFnkjQbUP0/0Ee",
+    "profile_picture": "C:/Users/melmo/OneDrive/Imágenes/Capturas de pantalla/Captura de pantalla 2025-05-08 211808.png",
+    "spaceship_image": "C:/Users/melmo/OneDrive/Imágenes/Capturas de pantalla/Captura de pantalla 2025-06-01 162749.png",
+    "favorite_music": [
+      "C:/Users/melmo/Downloads/www.joeemilio.co.za - Formula 1 Intro 2021 (Abu Dhabi Special Intro) 1080p (320 KBps).mp3"
+    ]
+  }
+}

@@ -1,0 +1,80 @@
+[
+  {
+    "alias": "TEST10",
+    "full_name": "Test",
+    "email": "mm1575964@gmail.com",
+    "password": "Test123.",
+    "profile_picture": "Ruta opcional",
+    "spaceship_image": "Ruta opcional",
+    "favorite_music": [
+      "Separar por coma"
+    ],
+    "token": "5bc0698c-cde7-485d-925f-f36926f500a3",
+    "confirmed": false
+  },
+  {
+    "alias": "TEST10",
+    "full_name": "Test",
+    "email": "mm1575964@gmail.com",
+    "password": "Test123.",
+    "profile_picture": "Ruta opcional",
+    "spaceship_image": "Ruta opcional",
+    "favorite_music": [
+      "Separar por coma"
+    ],
+    "token": "d170a557-ec1e-4c1f-a645-a574394b48fe",
+    "confirmed": false
+  },
+  {
+    "alias": "TEST10",
+    "full_name": "Test",
+    "email": "mm1575964@gmail.com",
+    "password": "Test123.",
+    "profile_picture": "Ruta opcional",
+    "spaceship_image": "Ruta opcional",
+    "favorite_music": [
+      "Separar por coma"
+    ],
+    "token": "9b181b7e-f105-4963-bf2c-2c103c5be855",
+    "confirmed": false
+  },
+  {
+    "alias": "TEST1020",
+    "full_name": "Melany Montoya",
+    "email": "melmontoya3112@gmail.com",
+    "password": "Melany0912.",
+    "profile_picture": "C:/Users/melmo/OneDrive/Imágenes/Capturas de pantalla/Captura de pantalla 2025-05-08 211946.png",
+    "spaceship_image": "C:/Users/melmo/OneDrive/Imágenes/Capturas de pantalla/Captura de pantalla 2025-05-08 211808.png",
+    "favorite_music": [
+      "C:/Users/melmo/Downloads/www.joeemilio.co.za - Formula 1 Intro 2021 (Abu Dhabi Special Intro) 1080p (320 KBps).mp3"
+    ],
+    "token": "3cf3efa9-6e11-47a3-b19e-a13feac8791b",
+    "confirmed": false
+  },
+  {
+    "alias": "TEST20",
+    "full_name": "Melany",
+    "email": "melmontoya3112@gmail.com",
+    "password": "Melany0912.",
+    "profile_picture": "C:/Users/melmo/OneDrive/Imágenes/Capturas de pantalla/Captura de pantalla 2025-05-08 211946.png",
+    "spaceship_image": "C:/Users/melmo/OneDrive/Imágenes/Capturas de pantalla/Captura de pantalla 2025-05-08 211808.png",
+    "favorite_music": [
+      "C:/Users/melmo/Downloads/www.joeemilio.co.za - Formula 1 Intro 2021 (Abu Dhabi Special Intro) 1080p (320 KBps).mp3"
+    ],
+    "token": "d15ac71b-8af2-488b-add8-c29851b731c9",
+    "confirmed": false
+  },
+  {
+    "alias": "Fa",
+    "full_name": "Fared Carballo",
+    "email": "farloncq07@gmail.com",
+    "password": "Fa.1234",
+    "profile_picture": "Ruta opcional",
+    "spaceship_image": "Ruta opcional",
+    "favorite_music": [
+      "Separar por coma"
+    ],
+    "token": "2fb6f962-eaf8-49ed-9f80-c67cf761770c",
+    "confirmed": false
+  }
+]

@@ -1,0 +1,1 @@
+Reemplaza por tu sprite: player_ship.png (44x44, con transparencia).
